@@ -12,6 +12,7 @@
 2. Dive into Message Queue
 3. Dive into event driven systems
 4. Dive into fault tolerent systems
+5. Design notification system with grpc
 
 # Talk
 1. API first from NON RD's perspectives

@@ -25,4 +25,5 @@
 9. Trunk-based flow
 10. Intro to Go
 11. k8s (?
-12. C# multi threading, async/await 
+12. C# multi threading, async/await
+13. GCP vm weird behaviors...
